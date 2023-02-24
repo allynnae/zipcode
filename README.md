@@ -9,9 +9,9 @@
 
 ---
 
-### Name: Enter your name
+### Name: Allison McKee
 
-### Email: Enter your OU email
+### Email: am893120@ohio.edu
 
 ---
 
