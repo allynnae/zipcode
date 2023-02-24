@@ -1,8 +1,8 @@
 /**
  *   @file: zipcode.cc
- * @author: Enter your name
- *   @date: Enter the date
- *  @brief: Add Description
+ * @author: Allison McKee
+ *   @date: 02-24-2023
+ *  @brief: zipcodes
  */
 
 #include <iostream>
@@ -13,6 +13,6 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
-    /*add code*/
+    
     return 0;
-} /// main
+} 
