@@ -1,4 +1,3 @@
-
 /**
  *   @file: word-count.cc
  * @author: Allison McKee
