@@ -9,7 +9,7 @@
 
 ---
 
-### Name: Allison McKee
+### Name: Allison McKe
 
 ### Email: am893120@ohio.edu
 
