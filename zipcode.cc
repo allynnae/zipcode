@@ -3,7 +3,7 @@
  *   @file: word-count.cc
  * @author: Allison McKee
  *   @date: 02-24-2023
- *  @brief: Zip codes to Barcodes 
+ *  @brief: Zip codes to Barcode
  */
 #include <iostream>
 #include <iomanip>
