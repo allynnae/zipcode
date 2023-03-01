@@ -1,3 +1,10 @@
+
+/**
+ *   @file: word-count.cc
+ * @author: Allison McKee
+ *   @date: 02-24-2023
+ *  @brief: Zip codes to Barcodes 
+ */
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
