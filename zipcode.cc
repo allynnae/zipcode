@@ -43,7 +43,7 @@ int main(int argc, char const *argv[]) {
         }
         if (!invalid) 
         {
-            cout << "Code: |  ";
+            cout << "Code: | ";
             for (int i = 0; i < zip_code.length(); i++)
             {
                 digit = zip_code[i];
@@ -68,43 +68,43 @@ string getDigitCode(char digit)
 { 
     if (digit == '1')
     {
-        return ":::|| ";
+        return ":::||";
     }
     if (digit == '2')
     {
-        return "::|:| ";
+        return "::|:|";
     }
     if (digit == '3')
     {
-        return "::||: ";
+        return "::||:";
     }
     if (digit == '4')
     {
-        return ":|::| ";
+        return ":|::|";
     }
     if (digit == '5')
     {
-        return ":|:|: ";
+        return ":|:|:";
     }
     if (digit == '6')
     {
-        return ":||:: ";
+        return ":||::";
     }
     if (digit == '7')
     {
-        return "|:::| ";
+        return "|:::|";
     }
     if (digit == '8')
     {
-        return "|::|: ";
+        return "|::|:";
     }
     if (digit == '9')
     {
-        return "|:|:: ";
+        return "|:|::";
     }
     if (digit == '0')
     {
-        return "||::: ";
+        return "||:::";
     }
     return "";
 }
